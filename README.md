@@ -8,3 +8,6 @@ This is a personal portfolio website, made using HTML, CSS and Java-Script.
 * You can add various basic and advanced form attributes according your needs you can learn more about it @ https://formsubmit.co/. <br>
 * Lastly submit the form once. This first-time-use will trigger an email requesting confirmation. After that you're good to go. <br>
 </p>
+<h3><b>Contact Form Example</b></h3>
+
+<br>
