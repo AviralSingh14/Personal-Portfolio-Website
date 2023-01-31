@@ -1,5 +1,5 @@
 # Personal-Portfolio-Website
-This is a personal portfolio website, made using HTML, CSS and Java-Script. 
+This is a responsive personal portfolio website, made using HTML, CSS and Java-Script. 
 
 <h3><b>To make the contact form work</b></h3>
 <p>
